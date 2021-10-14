@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer ( .Net Core | NestJS | YII2 )</h3>
 <h4>I am a well mannered and actively participating person who loves to learn and takes on a new challenge and try to grow every day. I am Talented Full Stack .Net, Node JS, PHP Developer experienced in producing and updating web API, web applications and web infrastructure and UI Designs. I have been developing professionally for 3+ years. Most of my positions utilized agile like development processes using JIRA/TFS. I am also a certified with different backend and frontend languages. I have good knowledge of PHP, ASP.NET Core, Node JS/Nest JS, PostgreSQL, C++ and many more languages.</h4>
 
-- 📫 How to reach me **zdoti55@gmail.com**  || **+2519 16 984890**
+- 📫 How to reach me **zdoti55@gmail.com**  || +2519 16 984890
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
